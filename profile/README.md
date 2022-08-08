@@ -18,7 +18,7 @@
 > <img src="https://i.postimg.cc/X7xf8XGW/image.png" height="300"/>
 **메인화면**
 
-> <img src="https://i.postimg.cc/hty0Shcs/image.png" height="300"/>
+> <img src="https://i.postimg.cc/ydjXLRg2/1.png" height="300"/>
 **노래선택**
 
 > <img src="https://i.postimg.cc/XY3PZZM0/image.png" height="300"/>
